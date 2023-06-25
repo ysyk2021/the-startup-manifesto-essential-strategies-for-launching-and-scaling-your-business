@@ -1,5 +1,4 @@
-Chapter 6: Applying the Startup Manifesto Across Different Industries and Sectors: Using the Startup Manifesto for Corporate Innovation and Intrapreneurship
-============================================================================================================================================================
+# Using the Startup Manifesto for Corporate Innovation and Intrapreneurship
 
 The startup manifesto is not limited to new startups launching from scratch. It can also be applied across different industries and sectors, including large corporations and intrapreneurship. In this chapter, we'll discuss how the startup manifesto can be used for corporate innovation and intrapreneurship.
 

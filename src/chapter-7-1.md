@@ -1,5 +1,4 @@
-Chapter 7: Measuring Success in the Startup Manifesto: Metrics and Key Performance Indicators (KPIs) for the Startup Manifesto
-==============================================================================================================================
+# Metrics and Key Performance Indicators (KPIs) for the Startup Manifesto
 
 Measuring success is critical for startups to track progress, identify areas for improvement, and make informed decisions. In this chapter, we'll discuss metrics and key performance indicators (KPIs) for the startup manifesto.
 

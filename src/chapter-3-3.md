@@ -1,5 +1,4 @@
-Chapter 3: Strategies for Launching a Successful Startup: Creating a Plan for Building and Launching a Minimum Viable Product (MVP)
-===================================================================================================================================
+# Creating a Plan for Building and Launching a Minimum Viable Product (MVP)
 
 Building and launching a minimum viable product (MVP) is a critical step in the process of launching a successful startup. In this chapter, we'll discuss strategies for creating a plan for building and launching an MVP.
 

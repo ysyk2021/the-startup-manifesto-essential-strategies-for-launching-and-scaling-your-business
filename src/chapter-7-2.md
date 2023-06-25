@@ -1,5 +1,4 @@
-Chapter 7: Measuring Success in the Startup Manifesto: Analyzing and Interpreting Data on Startup Success
-=========================================================================================================
+# Analyzing and Interpreting Data on Startup Success
 
 Measuring success is critical for startups, but it's not just about collecting data. It's also important to analyze and interpret that data to make informed decisions. In this chapter, we'll discuss how to analyze and interpret data on startup success.
 

@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Obstacles and Challenges in Startup Life: Managing Resource Constraints and Time Pressures in Startup Operations
-======================================================================================================================================
+# Managing Resource Constraints and Time Pressures in Startup Operations
 
 Startups face numerous obstacles and challenges on their journey to success. In this chapter, we'll focus on managing two of the most common challenges for startups - resource constraints and time pressures.
 

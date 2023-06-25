@@ -1,5 +1,4 @@
-Chapter 6: Applying the Startup Manifesto Across Different Industries and Sectors: Applying the Startup Manifesto for Social Enterprises and Non-Profit Organizations
-=====================================================================================================================================================================
+# Applying the Startup Manifesto for Social Enterprises and Non-Profit Organizations
 
 Social enterprises and non-profit organizations can also benefit from adopting the startup manifesto. In this chapter, we'll discuss how the startup manifesto can be applied to these types of organizations.
 

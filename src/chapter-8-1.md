@@ -1,5 +1,4 @@
-Chapter 8: Conclusion: Recap of Key Points
-==========================================
+# Recap of Key Points
 
 In this book, we've discussed essential strategies for launching and scaling your business based on the startup manifesto. Here's a recap of some key points from each chapter:
 

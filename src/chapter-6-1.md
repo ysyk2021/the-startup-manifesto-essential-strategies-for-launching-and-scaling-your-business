@@ -1,5 +1,4 @@
-Chapter 6: Applying the Startup Manifesto Across Different Industries and Sectors: Using the Startup Manifesto for Tech Startups and Innovation-driven Businesses
-=================================================================================================================================================================
+# Using the Startup Manifesto for Tech Startups and Innovation-driven Businesses
 
 Tech startups and innovation-driven businesses are prime candidates for adopting the startup manifesto. In this chapter, we'll discuss how the startup manifesto can be applied to these types of organizations.
 

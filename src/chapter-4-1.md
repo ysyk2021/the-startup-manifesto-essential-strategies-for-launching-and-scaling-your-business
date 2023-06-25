@@ -1,5 +1,4 @@
-Chapter 4: Tools and Techniques for Scaling a Startup: Using Lean Startup Methodology for Rapid Growth and Customer Acquisition
-===============================================================================================================================
+# Using Lean Startup Methodology for Rapid Growth and Customer Acquisition
 
 Using lean startup methodology is an effective way for startups to achieve rapid growth and customer acquisition. In this chapter, we'll discuss how startups can use lean startup methodology to scale their businesses.
 

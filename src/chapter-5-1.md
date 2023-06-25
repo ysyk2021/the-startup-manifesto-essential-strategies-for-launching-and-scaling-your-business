@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Obstacles and Challenges in Startup Life: Navigating Resistance to Change and Fear of Failure as an Entrepreneur
-======================================================================================================================================
+# Navigating Resistance to Change and Fear of Failure as an Entrepreneur
 
 Resistance to change and fear of failure are common obstacles that entrepreneurs face when launching and scaling a startup. In this chapter, we'll discuss strategies for navigating these challenges.
 

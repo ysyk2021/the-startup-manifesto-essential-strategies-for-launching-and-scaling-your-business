@@ -1,5 +1,4 @@
-Chapter 7: Measuring Success in the Startup Manifesto: Continuously Improving Startup Approaches and Mindsets
-=============================================================================================================
+# Continuously Improving Startup Approaches and Mindsets
 
 Measuring success is essential for startups to evaluate their progress and identify areas for improvement. In this chapter, we'll discuss how startups can measure success in the context of the Startup Manifesto.
 
