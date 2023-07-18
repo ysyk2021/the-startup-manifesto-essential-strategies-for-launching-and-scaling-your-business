@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 8: Conclusion
-=====================
-
 Launching and scaling a startup can be challenging, but with the right strategies and mindset, it is achievable. In this book, we have discussed essential strategies for launching and scaling your business. In this chapter, we'll recap key points and provide final thoughts and recommendations.
 
 Recap of Key Points
