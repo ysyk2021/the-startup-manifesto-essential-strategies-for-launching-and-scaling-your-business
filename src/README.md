@@ -10,5 +10,4 @@ Inside, you'll find tips on developing a strong business plan, building a winnin
 
 Whether you're a first-time entrepreneur or a seasoned pro, "The Startup Manifesto" is an invaluable resource for anyone looking to build a successful startup. So why wait? Let's dive into this book and start building the business of your dreams today.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
