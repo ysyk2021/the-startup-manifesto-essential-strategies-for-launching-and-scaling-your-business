@@ -1,5 +1,3 @@
-Navigating Resistance to Change and Fear of Failure as an Entrepreneur
-===============================================================================
 
 In this chapter, we will explore the challenges entrepreneurs face when navigating resistance to change and fear of failure. Starting and scaling a business requires embracing change and taking risks, but these hurdles can often hinder progress and innovation. By understanding and effectively managing resistance to change and fear of failure, entrepreneurs can overcome these obstacles and thrive in their entrepreneurial journey.
 

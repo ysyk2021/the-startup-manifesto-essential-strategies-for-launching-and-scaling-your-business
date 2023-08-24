@@ -1,5 +1,3 @@
-Metrics and Key Performance Indicators (KPIs) for the Startup Manifesto
-================================================================================
 
 In this chapter, we will explore the importance of metrics and key performance indicators (KPIs) for startups, as outlined in "The Startup Manifesto." Metrics and KPIs provide valuable insights into the performance and progress of a startup, enabling entrepreneurs to make data-driven decisions and effectively scale their businesses.
 

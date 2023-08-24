@@ -1,5 +1,3 @@
-Using the Startup Manifesto for Corporate Innovation and Intrapreneurship
-==================================================================================
 
 In this chapter, we will explore how the principles outlined in "The Startup Manifesto: Essential Strategies for Launching and Scaling Your Business" can be applied to drive corporate innovation and foster an intrapreneurial culture within established organizations. By embracing startup-like thinking and practices, corporations can unleash their employees' creative potential, encourage experimentation, and drive sustainable growth in a rapidly evolving business landscape.
 

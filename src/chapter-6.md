@@ -1,5 +1,3 @@
-Chapter 6: Applying the Startup Manifesto Across Different Industries and Sectors
-=================================================================================
 
 The startup manifesto can be applied across different industries and sectors, from tech startups to social enterprises to corporate innovation. In this chapter, we'll discuss how the startup manifesto can be applied in various contexts.
 

@@ -1,5 +1,3 @@
-Chapter 4: Tools and Techniques for Scaling a Startup
-=====================================================
 
 Scaling a startup requires strategic planning, efficient execution, and the right tools and techniques. In this chapter, we'll discuss essential tools and techniques for scaling a startup.
 

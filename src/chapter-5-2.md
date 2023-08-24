@@ -1,5 +1,3 @@
-Managing Resource Constraints and Time Pressures in Startup Operations
-===============================================================================
 
 In this chapter, we will explore the challenges of managing resource constraints and time pressures in startup operations. Startups often face limited resources and tight timelines, and it is crucial to effectively manage these constraints to ensure operational efficiency and successful growth.
 

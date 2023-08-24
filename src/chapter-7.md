@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success in the Startup Manifesto
-=====================================================
 
 Measuring success is critical for startups to track progress, identify areas for improvement, and make informed decisions. In this chapter, we'll discuss metrics and key performance indicators (KPIs) for the startup manifesto, analyzing and interpreting data on startup success, and continuous improvement.
 
